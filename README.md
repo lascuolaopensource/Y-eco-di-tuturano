@@ -1,11 +1,12 @@
 # 🐦 Archivio Detti di Tuturano
 
-<img src="images/bot.png" alt="Segna-Gol" width="600">
+
 
 > Installazione sonora interattiva — Casa di Quartiere, Tuturano (Puglia, IT)
 
 Un archivio sonoro partecipativo di detti dialettali raccolti via Telegram e riprodotti nello spazio fisico. I visitatori inviano un vocale al bot, che lo normalizza e lo aggiunge all'archivio. Un sensore PIR rileva la presenza e riproduce un detto casuale ogni volta che qualcuno si avvicina all'installazione.
 
+<img src="images/bot.png" alt="Segna-Gol" width="400">
 ---
 
 ## Come funziona
