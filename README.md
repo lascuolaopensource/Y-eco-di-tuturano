@@ -1,4 +1,6 @@
 # 🐦 Archivio Detti di Tuturano
+![BOT](images/BOT.jpg)
+
 
 > Installazione sonora interattiva — Casa di Quartiere, Tuturano (Puglia, IT)
 
