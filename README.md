@@ -1,6 +1,6 @@
 # 🐦 Archivio Detti di Tuturano
-![BOT](images/bot.png)
 
+<img src="images/bot.png" alt="Segna-Gol" width="600">
 
 > Installazione sonora interattiva — Casa di Quartiere, Tuturano (Puglia, IT)
 
